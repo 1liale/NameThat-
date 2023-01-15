@@ -1,7 +1,10 @@
 # NameThat🐟
 
-(WORK IN PROGRESS)
-A fish identifier for anglers and fish hobbyists
+A cross-platform fish identifier app for anglers and fish hobbyists created in React Native, Flask backend, and model trained using Tensorflow.
+
+Authors: Alex Li, Daniel Lee, and Yifan Zong
+
+[![Demo CountPages alpha](https://j.gifs.com/PjEDvl.gif)](https://www.youtube.com/watch?v=A8j4WG5bz5Q)
 
 ## Installation
 
