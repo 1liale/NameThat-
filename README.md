@@ -7,7 +7,7 @@ Authors: Alex Li, Daniel Lee, and Yifan Zong
 [![Demo CountPages alpha](https://j.gifs.com/PjEDvl.gif)](https://www.youtube.com/watch?v=A8j4WG5bz5Q)
 > Click gif to see full demonstration of how our app works
 
-## How it works?
+## How does it work?
 
 Users can capture an image of a fish using the in-app camera or upload and select from a gallery. The image is then serialized and passed through a CNN model (transfer-learned from the EfficientNetV2 that was trained on the ImageNet dataset) to be classified as 1 of 20 available species or as unrecognized. Furthermore, once a classification is made, the user can also navigate to our interactive library that contains 20 different cards with interesting facts on each of the fish species such as their life cycles, diet, and prominent features.
 
